@@ -1,4 +1,3 @@
-To install the bot go to repl.it.
-Create a project.
-Then import from Github.
-Then paste the link https://github.com/SplendidCafeHolder/discordbot
+DO NOT SELL MY CODE.
+For support join https://discord.gg/5jKWS7UNu2.
+Go to the #support channel.
